@@ -3,7 +3,7 @@
  * Plugin Name:       Admin Settings
  * Plugin URI:        https://github.com/rcdesign2/admin-settings
  * Description:       Demonstrates how to write custom administration pages in WordPress.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Ben Ross
  * Text Domain:       github-updater
  * GitHub Plugin URI: https://github.com/rcdesign2/admin-settings
